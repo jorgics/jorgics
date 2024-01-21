@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Jorgics</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/ArA3AcU.png">
+<img src="https://img.shields.io/badge/LinkedIn-Jorge%20Nueno%20Abril-blue?style=social&logo=linkedin&logoColor=%230A66C2">
+
+## Sobre mi
+
+- 📲 Mobile developer
+- 
+
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
