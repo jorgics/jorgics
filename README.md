@@ -1,13 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Jorgics</a> 👋</h1>
+<h1 align="center">Hola, soy Jorgics 👋</h1>
 </div>
+
 <img src="https://i.imgur.com/ArA3AcU.png">
-<img src="https://img.shields.io/badge/LinkedIn-Jorge%20Nueno%20Abril-blue?style=social&logo=linkedin&logoColor=%230A66C2">
+
+[<img src="https://img.shields.io/badge/LinkedIn-Jorge%20Nueno%20Abril-blue?style=social&logo=linkedin&logoColor=%230A66C2">](https://www.linkedin.com/in/jorge-nueno-abril-897aa8228)
 
 ## Sobre mi
 
 - 📲 Mobile developer
-- 
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
