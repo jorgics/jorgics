@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MINSAIT**
 
-- 🌱 I’m currently learning **design patterns and testing**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **MINSAIT**
 
